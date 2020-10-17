@@ -71,6 +71,9 @@
   "OP-Atom": {
     "folderName": "Videos"
   },
+  "av1i": {
+    "folderName": "Videos"
+  },
   "ts": {
     "folderName": "Videos"
   },
@@ -147,6 +150,9 @@
     "folderName": "Music"
   },
   "nmf": {
+    "folderName": "Music"
+  },
+  "4ff": {
     "folderName": "Music"
   },
   "nsf": {
@@ -227,6 +233,9 @@
   "fits": {
     "folderName": "Images"
   },
+  "tyyu": {
+    "folderName": "Images"
+  },
   "flif": {
     "folderName": "Images"
   },
@@ -249,6 +258,9 @@
     "folderName": "Images"
   },
   "pgf": {
+    "folderName": "Images"
+  },
+  "config": {
     "folderName": "Images"
   },
   "sgi": {
